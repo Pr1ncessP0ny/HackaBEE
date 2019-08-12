@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HackaBEE</title>
-    <link>/</link>
+    <link>http://example.org/</link>
     <description>Recent content on HackaBEE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 10 Aug 2019 13:01:49 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Sat, 10 Aug 2019 13:01:49 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>This Blog/Website is made by rhazdon (https://github.com/rhazdon) so if you appreciate my work its all thanks to him!
 Anywayyys.....So, who am I? An idiot, Greedy and Selfish Pig who hides under the computer and goes by the name &amp;ldquo;Pr1ncess P0ny&amp;rdquo;
 My aim will be to post weekly and to contribute to this exhilarating community via my GitHub so it seems that I&amp;rsquo;ll be busting my ass off in the future, however keep in mind that in the time that this blog has been made, I am a noob and the whole purpose of this blog is to log what I learn and life lessons I grow through so that it could help future noobs because Cyber Security is the BEST!</description>
