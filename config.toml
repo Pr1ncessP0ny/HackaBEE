@@ -1,0 +1,70 @@
+baseURL = "http://example.org/"
+languageCode = "en-uk"
+title = "HackaBEE"
+theme = "hugo-theme-hello-friend-ng-master"
+
+[params]
+  dateform        = "Jan 2, 2006"                         #need to do this!!!
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Pr1ncess_P0ny"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  images = [""]
+
+  rssLimit  = 10  # Maximum number of items in the RSS feed.
+  copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[languages]
+  [languages.en]
+    title = "HackaBEE"
+    subtitle = ""
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "A s1mple bl0g f0r hackers fr0m a n00b learn1ng"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/posts"
+
+# And you can even create generic menu
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name       = "About"
+#    url        = "/about"
+#  [[menu.main]]
+#    identifier = "blog"
+#    name       = "Blog"
+#    url        = "/posts"
+
+# Social icons
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/Pr1ncessP0ny"
+
+  # googleAnalytics = ""
+  # disqusShortname = ""
