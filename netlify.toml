@@ -28,3 +28,7 @@ HUGO_VERSION = "0.56.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[build]
+  command = "npm run build"
+  publish = "/public"
