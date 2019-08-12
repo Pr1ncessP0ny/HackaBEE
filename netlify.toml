@@ -14,8 +14,6 @@ command = "hugo --gc --minify --enableGitInfo"
 HUGO_VERSION = "0.56.3"
 HUGO_ENV = "production"
 
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.56.3"
@@ -28,7 +26,3 @@ HUGO_VERSION = "0.56.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[build]
-  command = "npm run build"
-  publish = "/public"
