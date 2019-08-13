@@ -7,6 +7,6 @@ This Blog/Website is made by rhazdon (https://github.com/rhazdon) so if you appr
 
 <h3>Anywayyys.....So, who am I?</h3>
 
-An idiot, Greedy and Selfish Pig who hides under the computer and goes by the name "Pr1ncess P0ny"
+well, I'm just an enthusiast about cyber security with questions firing off rapidly from my head that I desire answers to. This blog is like a personal time machine in a sense, showing me where I started from and where I will be in the future.
 
-My aim will be to post weekly and to contribute to this exhilarating community via my GitHub so it seems that I'll be busting my ass off in the future, however keep in mind that in the time that this blog has been made, I am a noob and the whole purpose of this blog is to log what I learn and life lessons I grow through so that it could help future noobs because Cyber Security is the BEST!!
+Feel free to browse through this blog it may end up serving as a ladder towards the life of a pen-tester / Veterans Bug bounty hunter or something completely different.
