@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://hackabee.tk/"
 title   = "HackaBEE"
 
 DefaultContentLanguage = "en"
