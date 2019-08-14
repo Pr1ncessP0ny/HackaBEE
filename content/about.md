@@ -7,6 +7,6 @@ This Blog/Website is made by rhazdon (https://github.com/rhazdon) so if you appr
 
 <h3>Anywayyys.....So, who am I?</h3>
 
-well, I'm just an enthusiast about cyber security with questions firing off rapidly from my head that I desire answers to. This blog is like a personal time machine in a sense, showing me where I started from and where I will be in the future.
+well, I'm just an enthusiast about cyber security who wants to contribute towards this wonderful community.
 
 Feel free to browse through this blog, it may end up serving as a ladder towards the life of a pen-tester / Veteran Bug bounty hunter or something completely different as I intend to share the lessons I grow through, what I learn, my ideas on projects, etc.
