@@ -2,25 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HackaBEE</title>
-    <link>https://hackabee.tk/</link>
+    <link>https://hackabee.tk/index.html</link>
     <description>Recent content on HackaBEE</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 10 Aug 2019 13:01:49 -0700</lastBuildDate>
     
 	<atom:link href="https://hackabee.tk/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://hackabee.tk/about/</link>
-      <pubDate>Sat, 10 Aug 2019 13:01:49 -0700</pubDate>
-      
-      <guid>https://hackabee.tk/about/</guid>
-      <description>This Blog/Website is made by rhazdon (https://github.com/rhazdon) so if you appreciate my work its all thanks to him!
-Anywayyys.....So, who am I? well, I&amp;rsquo;m just an enthusiast about cyber security who wants to contribute towards this wonderful community.
-Feel free to browse through this blog, it may end up serving as a ladder towards the life of a pen-tester / Veteran Bug bounty hunter or something completely different as I intend to share the lessons I grow through, what I learn, my ideas on projects, etc.</description>
-    </item>
     
   </channel>
 </rss>
