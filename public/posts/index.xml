@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on HackaBEE</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on HackaBEE</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-uk</language>
+        <lastBuildDate>Sun, 29 Sep 2019 09:38:56 -0700</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>The First Step</title>
+            <link>/posts/thefirststep/</link>
+            <pubDate>Sun, 29 Sep 2019 09:38:56 -0700</pubDate>
+            
+            <guid>/posts/thefirststep/</guid>
+            <description>Its been a some time from the makings of this blog to at last publishing my first post. In the middle of all that time I simply drank the sweet sweet poison known as procrastination, the enemy of productivity. Which lead to the consenquence of loosing Valuable and irreplaceable time. I&amp;rsquo;ve learnt my lesson
+The best time to have planted the tree was 10 years ago, however the 2nd best time is now.</description>
+            <content type="html"><![CDATA[<p>Its been a some time from the makings of this blog to at last publishing my first post. In the middle of all that time I simply drank the sweet sweet poison known as procrastination, the enemy of productivity. Which lead to the consenquence of loosing Valuable and irreplaceable time. I&rsquo;ve learnt my lesson</p>
+
+<blockquote>The best time to have planted the tree was 10 years ago, however the 2nd best time is now.</blockquote>
+
+<p>I desire to be a better hacker than I am now, helping out and giving light to the wonders and excitement of this overlooked field. Striving to share the sparkle of hacking, and computers in general, that got me hooked into this in the first place</p>
+
+<p>This is the mark of my First Step in However long this road may be.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
